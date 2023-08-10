@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rayyansarran
-- 👀 I’m interested in...Exploring
-- 🌱 I’m currently learning...python
-- 💞️ I’m looking to collaborate on web...projects
+- 👀 I’m interested in ... Exploring
+- 🌱 I’m currently learning ... python
+- 💞️ I’m looking to collaborate on web ... projects
 - 📫 How to reach me ... rayyansarran@gmail.com
 
 <!---
